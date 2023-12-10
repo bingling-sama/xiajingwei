@@ -41,5 +41,5 @@ let adLink = 'https://ys.mihoyo.com/cloud/';
 document.getElementsByTagName("title")[0].innerText = '合成吓茎萎';
 
 // 开启选分弹窗：将 false 改为 true
-let selectModal = true;
+let selectModal = false;
 
